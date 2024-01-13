@@ -1,0 +1,4 @@
+Electronics[Product Id: A000] [Product Name: Laptop] [Available Items: 10] [Price is: 35000.0] [Category is: Electronics][Brand is: Dell] [Warrenty Period is: 1]
+Clothing[Product Id: B001] [Product Name: Blouse] [Available Items: 20] [Price is: 800.0] [Category is: Clothing] [Size is: M] [Color is: blue]
+Clothing[Product Id: B002] [Product Name: Shirt] [Available Items: 10] [Price is: 1200.0] [Category is: Clothing] [Size is: S] [Color is: red]
+Clothing[Product Id: B003] [Product Name: Denim] [Available Items: 12] [Price is: 800.0] [Category is: Clothing] [Size is: M] [Color is: blue]
